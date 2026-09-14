@@ -1,0 +1,8 @@
+{
+  "id": "11",
+  "name": "11-circom-zk-credential-verification",
+  "title": "Zero-Knowledge Corporate Credential Verification Network",
+  "language": "Circom",
+  "domain": "Applied Cryptography & Zero-Knowledge Proofs",
+  "description": "Zero-knowledge arithmetic circuits (R1CS) in Circom for privacy-preserving verification of corporate KYC, creditworthiness, and accreditation."
+}

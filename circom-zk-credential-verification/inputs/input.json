@@ -1,0 +1,8 @@
+{
+  "privateCreditScore": 760,
+  "privateAnnualRevenue": 25000000,
+  "privateCompanySecretSalt": 987654321,
+  "minCreditScoreThreshold": 680,
+  "minRevenueThreshold": 10000000,
+  "expectedCommitmentHash": 30617300871
+}
