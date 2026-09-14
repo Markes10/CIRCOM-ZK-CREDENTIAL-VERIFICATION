@@ -1,4 +1,4 @@
-# 11 - Zero-Knowledge Corporate Credential Verifier (Circom)
+# Zero-Knowledge Corporate Credential Verifier (Circom)
 
 ## Executive Overview
 A privacy-preserving corporate creditworthiness and accreditation verification circuit written in **Circom (v2.1.0)**. It allows enterprises to prove that their private credit score and annual revenues exceed regulatory thresholds and that their corporate identity commitment matches an authoritative ledger **without disclosing raw financial data or identity salts** to auditors.
